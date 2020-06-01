@@ -1,4 +1,3 @@
-# I've joined the #100DaysOfCode Challenge
 
 
 Day 0: June 1, 2020
