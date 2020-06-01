@@ -2,7 +2,7 @@
 
 Day 0: June 1, 2020
 
-Today's Progress: Started the Ecommerce project - phone shopping 
+Today's Progress: Started the Ecommerce project - phone shopping  https://github.com/AnithaDharaneedharan/phone-shopping
 
 Thoughts: Designing an app for Online shopping which invloves a products page , cart and payment 
 
