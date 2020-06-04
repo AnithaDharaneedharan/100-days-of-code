@@ -37,3 +37,15 @@ Thoughts: Context API is an approach to manage store and maintain data as single
 Experimented with: Context API Provider and Consumers
 
 Link(s) to work: https://www.youtube.com/watch?v=XLJN4JfniH4&t=387s , https://www.youtube.com/watch?v=wPQ1-33teR4&t=190s
+
+Day 3: June 4, 2020
+
+Github :  https://github.com/AnithaDharaneedharan/phone-shopping
+
+Today's Progress: Added bootstarp classes for card details , ternary ops and more of the Context API 
+
+Thoughts: Context Provider and Consumer
+
+Experimented with: Context API Provider and Consumers
+
+Link(s) to work: https://www.youtube.com/watch?v=XLJN4JfniH4&t=387s , https://www.youtube.com/watch?v=wPQ1-33teR4&t=190s
