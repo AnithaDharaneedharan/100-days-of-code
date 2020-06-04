@@ -34,6 +34,6 @@ Today's Progress: Added more bootstarp classes and Introduced the Context API
 
 Thoughts: Context API is an approach to manage store and maintain data as single source of truth and it overcomes the problem of props drilling.
 
-Experimented with: Context API Provider and Consumer
+Experimented with: Context API Provider and Consumers
 
-Link(s) to work: https://www.youtube.com/watch?v=wPQ1-33teR4&t=190s
+Link(s) to work: https://www.youtube.com/watch?v=XLJN4JfniH4&t=387s , https://www.youtube.com/watch?v=wPQ1-33teR4&t=190s
