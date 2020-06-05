@@ -49,3 +49,15 @@ Thoughts: Context Provider and Consumer
 Experimented with: Context API Provider and Consumers
 
 Link(s) to work: https://www.youtube.com/watch?v=XLJN4JfniH4&t=387s , https://www.youtube.com/watch?v=wPQ1-33teR4&t=190s
+
+Day 4: June 5, 2020
+
+Github :  https://github.com/AnithaDharaneedharan/phone-shopping
+
+Today's Progress: Introducing PropTypes
+
+Thoughts: Understanding PropTypes and how it differs from TypeScript, features like defaultProps and isRequired, typechecking objects with .shape will type check the inner value.
+
+Experimented with: PropTypes and tackling the  Objects being passed as reference
+
+Link(s) to work: https://www.youtube.com/watch?v=XLJN4JfniH4&t=387s , https://www.youtube.com/watch?v=W4QmNh890EI
