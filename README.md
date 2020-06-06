@@ -61,3 +61,18 @@ Thoughts: Understanding PropTypes and how it differs from TypeScript, features l
 Experimented with: PropTypes and tackling the  Objects being passed as reference
 
 Link(s) to work: https://www.youtube.com/watch?v=XLJN4JfniH4&t=387s , https://www.youtube.com/watch?v=W4QmNh890EI
+
+
+
+Day 5: June 6, 2020
+
+Github :  
+https://github.com/AnithaDharaneedharan/lazy-images
+
+Today's Progress: Understanding Lazy loading of images through Intersection Observer API
+
+Thoughts: Increases the performance of the page through lazy loading
+
+Experimented with: Intersection Observer API which accepts call back function and threshold values , observer and unobserve methods .
+
+Link(s) to work:https://www.youtube.com/watch?v=_SgFZ93kb0M
