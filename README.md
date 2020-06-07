@@ -82,7 +82,7 @@ Day 6: June 7, 2020
 Github :  
 https://github.com/AnithaDharaneedharan/lazy-images
 
-Today's Progress: Understanding webpack
+Today's Progress: Understanding webpack, the bundle system
 
 Thoughts: 
 
