@@ -76,3 +76,16 @@ Thoughts: Increases the performance of the page through lazy loading
 Experimented with: Intersection Observer API which accepts call back function and threshold values , observer and unobserve methods .
 
 Link(s) to work:https://www.youtube.com/watch?v=_SgFZ93kb0M
+
+Day 6: June 7, 2020
+
+Github :  
+https://github.com/AnithaDharaneedharan/lazy-images
+
+Today's Progress: Understanding webpack
+
+Thoughts: 
+
+Experimented with: Installing the various packages associated with webpack - for html and css loaders, plugins and babel transpilers
+
+Link(s) to work:https://www.youtube.com/watch?v=TzdEpgONurw
