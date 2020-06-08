@@ -80,12 +80,28 @@ Link(s) to work:https://www.youtube.com/watch?v=_SgFZ93kb0M
 Day 6: June 7, 2020
 
 Github :  
-https://github.com/AnithaDharaneedharan/lazy-images
+https://github.com/AnithaDharaneedharan/webpacktut
 
 Today's Progress: Understanding webpack, the bundle system
 
-Thoughts: 
+Thoughts: How better is it when compared to gulp. the powerful features like tree shaking , watches file changes and reruns tasks...
 
 Experimented with: Installing the various packages associated with webpack - for html and css loaders, plugins and babel transpilers
 
 Link(s) to work:https://www.youtube.com/watch?v=TzdEpgONurw
+
+
+Day 7: June 8, 2020
+
+Github :  
+https://github.com/AnithaDharaneedharan/dependency-injection
+
+Today's Progress: Understanding dependency injection and unit testing with it
+
+Thoughts: How dependency injection helps unit testing and it is straight forward than DI libraries/frameworks
+
+Experimented with: Mocha test and Promises 
+
+Link(s) to work:https://www.youtube.com/watch?v=0X1Ns2NRfks
+
+https://dev.to/azure/dependency-injection-in-javascript-101-2b1e
