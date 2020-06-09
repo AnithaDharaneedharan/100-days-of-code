@@ -109,7 +109,7 @@ https://dev.to/azure/dependency-injection-in-javascript-101-2b1e
 Day 8: June 9, 2020
 
 Github :  
-https://github.com/AnithaDharaneedharan/dependency-injection
+https://github.com/AnithaDharaneedharan/todo-react-typescript
 
 Today's Progress: Understanding Typescript in React project
 
