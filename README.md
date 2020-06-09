@@ -105,3 +105,17 @@ Experimented with: Mocha test and Promises
 Link(s) to work:https://www.youtube.com/watch?v=0X1Ns2NRfks
 
 https://dev.to/azure/dependency-injection-in-javascript-101-2b1e
+
+Day 8: June 9, 2020
+
+Github :  
+https://github.com/AnithaDharaneedharan/dependency-injection
+
+Today's Progress: Understanding Typescript in React project
+
+Thoughts: Typescript minimses errors as it is picked up during compile time
+
+Experimented with: Typescript , Generics
+
+Link(s) to work:https://www.youtube.com/watch?v=ODvirqIC09A&t=4s
+
