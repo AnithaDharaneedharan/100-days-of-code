@@ -130,7 +130,7 @@ Thoughts: More practice needed with passing functions as props
 
 Experimented with: Interface and Props drilling , Hooks
 
-Link(s) to work:https://www.youtube.com/watch?v=ODvirqIC09A&t=4s
+Link(s) to work:https://www.youtube.com/watch?v=sOP7eOPXPjQ&t=1s
 
 
 
