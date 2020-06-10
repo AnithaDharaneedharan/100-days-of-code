@@ -119,3 +119,18 @@ Experimented with: Typescript , Generics
 
 Link(s) to work:https://www.youtube.com/watch?v=ODvirqIC09A&t=4s
 
+Day 9: June 10, 2020
+
+Github :  
+https://github.com/AnithaDharaneedharan/todo-react-typescript
+
+Today's Progress: Understanding how props are passed from parent to child ,  Interface , React hooks
+
+Thoughts: More practice needed with passing functions as props
+
+Experimented with: Interface and Props drilling , Hooks
+
+Link(s) to work:https://www.youtube.com/watch?v=ODvirqIC09A&t=4s
+
+
+
