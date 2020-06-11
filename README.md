@@ -132,5 +132,18 @@ Experimented with: Interface and Props drilling , Hooks
 
 Link(s) to work:https://www.youtube.com/watch?v=sOP7eOPXPjQ&t=1s
 
+Day 10: June 11, 2020
+
+Github :  
+https://github.com/AnithaDharaneedharan/todo-react-typescript
+
+Today's Progress: Finished Todos
+
+Thoughts: More practice needed with passing functions as props
+
+Experimented with: Generics and Interfaces , Hooks 
+
+Link(s) to work:https://www.youtube.com/watch?v=a0xwxpr4zSo&t=15s
+
 
 
