@@ -145,5 +145,16 @@ Experimented with: How to handle empty values and resetting the input values to 
 
 Link(s) to work:https://www.youtube.com/watch?v=a0xwxpr4zSo&t=15s
 
+Day 11: June 12, 2020
 
+Github :  
+
+
+Today's Progress: Learnt what is TDD and why JEST
+
+Thoughts: Be patient to practice unit testing
+
+Experimented with: jest, test suite and understanding the need of TDD and why JEST 
+
+Link(s) to work https://www.youtube.com/watch?v=pdx2HjFRaJY
 
