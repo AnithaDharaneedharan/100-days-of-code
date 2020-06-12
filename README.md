@@ -139,9 +139,9 @@ https://github.com/AnithaDharaneedharan/todo-react-typescript
 
 Today's Progress: Finished Todos
 
-Thoughts: More practice needed with passing functions as props
+Thoughts: More practice needed with passing functions as props and handling events - ChangeEvent and FormEvent
 
-Experimented with: Generics and Interfaces , Hooks 
+Experimented with: How to handle empty values and resetting the input values to null
 
 Link(s) to work:https://www.youtube.com/watch?v=a0xwxpr4zSo&t=15s
 
