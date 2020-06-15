@@ -173,16 +173,16 @@ Link(s) to work https://www.youtube.com/watch?v=pdx2HjFRaJY
 
 Day 13: June 15, 2020
 
-Github :  
+Sandbox :  https://codesandbox.io/s/node-stripe-checkout-final-s30rp?file=/src/index.js , https://codesandbox.io/s/react-stripe-checkout-starter-cu731?file=/src/index.js, https://dashboard.stripe.com/test/payments/ch_1GuRz3LxCRGvXgOwKF7nQD3a
 
 
-Today's Progress: Learnt what is TDD and why JEST
+Today's Progress: Learnt how payments are made on ecommerce apps using STRIPE , the payment API for React
 
-Thoughts: Be patient to practice unit testing
+Thoughts: payment looks simple. Stripe accepts all payments in cents
 
-Experimented with: jest, test suite and understanding the need of TDD and why JEST 
+Experimented with: Connect FE and BE via the secret key and check dashboard for all the info
 
-Link(s) to work https://www.youtube.com/watch?v=pdx2HjFRaJY
+Link(s) to work : https://www.youtube.com/watch?v=lkA4rmo7W6k, https://stripe.com/docs/api
 
 
 
