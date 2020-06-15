@@ -158,3 +158,32 @@ Experimented with: jest, test suite and understanding the need of TDD and why JE
 
 Link(s) to work https://www.youtube.com/watch?v=pdx2HjFRaJY
 
+Day 12: June 13, 2020
+
+Github :  
+
+
+Today's Progress: Learnt what is TDD and why JEST
+
+Thoughts: Be patient to practice unit testing
+
+Experimented with: jest, test suite and understanding the need of TDD and why JEST 
+
+Link(s) to work https://www.youtube.com/watch?v=pdx2HjFRaJY
+
+Day 13: June 15, 2020
+
+Github :  
+
+
+Today's Progress: Learnt what is TDD and why JEST
+
+Thoughts: Be patient to practice unit testing
+
+Experimented with: jest, test suite and understanding the need of TDD and why JEST 
+
+Link(s) to work https://www.youtube.com/watch?v=pdx2HjFRaJY
+
+
+
+
