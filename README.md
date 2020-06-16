@@ -147,8 +147,7 @@ Link(s) to work:https://www.youtube.com/watch?v=a0xwxpr4zSo&t=15s
 
 Day 11: June 12, 2020
 
-Github :  
-
+Github :  https://github.com/AnithaDharaneedharan/unit-testing
 
 Today's Progress: Learnt what is TDD and why JEST
 
@@ -161,15 +160,15 @@ Link(s) to work https://www.youtube.com/watch?v=pdx2HjFRaJY
 Day 12: June 13, 2020
 
 Github :  
+https://github.com/AnithaDharaneedharan/Vanilla-JavaScript-Modal
 
+Today's Progress: Learnt what is Modal
 
-Today's Progress: Learnt what is TDD and why JEST
+Thoughts: Need deeper understanding of how modal works , requires more learning and practice
 
-Thoughts: Be patient to practice unit testing
+Experimented with: CSS in Modal and thought about its applications
 
-Experimented with: jest, test suite and understanding the need of TDD and why JEST 
-
-Link(s) to work https://www.youtube.com/watch?v=pdx2HjFRaJY
+Link(s) to work https://www.youtube.com/watch?v=MBaw_6cPmAw
 
 Day 13: June 15, 2020
 
