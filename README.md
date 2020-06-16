@@ -183,6 +183,18 @@ Experimented with: Connect FE and BE via the secret key and check dashboard for 
 
 Link(s) to work : https://www.youtube.com/watch?v=lkA4rmo7W6k, https://stripe.com/docs/api
 
+Day 14: June 16, 2020
+
+
+Github :  https://github.com/AnithaDharaneedharan/unit-testing
+
+Today's Progress: Learnt more on unit testing , how to mock and implement tests for fetch functions, Understood the importance of doing things little by little like sandboxing in node.js
+
+Thoughts: Think the test cases and write them  before writing the code.
+
+Experimented with: it, assertions, mocked data , dependency injection 
+
+Link(s) to work : https://www.youtube.com/watch?v=lkA4rmo7W6k, https://stripe.com/docs/api
 
 
 
