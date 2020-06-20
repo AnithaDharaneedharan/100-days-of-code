@@ -214,7 +214,7 @@ Day 16: June 18, 2020
 
 Today's Progress: Undersatnding the entire flow of the application.
 
-Thoughts: Think the test cases and write them  before writing the code.
+Thoughts: 
 
 Experimented with: 
 
