@@ -196,5 +196,45 @@ Experimented with: it, assertions, mocked data , dependency injection
 
 Link(s) to work : https://www.youtube.com/watch?v=lkA4rmo7W6k, https://stripe.com/docs/api
 
+Day 15: June 17, 2020
+
+
+Github :  https://github.com/AnithaDharaneedharan/unit-testing
+
+Today's Progress: Learnt more on unit testing , how to mock and implement tests for fetch functions, Understood the importance of doing things little by little like sandboxing in node.js
+
+Thoughts: Think the test cases and write them  before writing the code.
+
+Experimented with: it, assertions, mocked data , dependency injection 
+
+Link(s) to work : https://www.youtube.com/watch?v=lkA4rmo7W6k, https://stripe.com/docs/api
+
+
+Day 16: June 18, 2020
+
+
+Github :  https://github.com/AnithaDharaneedharan/unit-testing
+
+Today's Progress: Learnt more on unit testing , how to mock and implement tests for fetch functions, Understood the importance of doing things little by little like sandboxing in node.js
+
+Thoughts: Think the test cases and write them  before writing the code.
+
+Experimented with: it, assertions, mocked data , dependency injection 
+
+Link(s) to work : https://www.youtube.com/watch?v=lkA4rmo7W6k, https://stripe.com/docs/api
+
+Day 17: June 19, 2020
+
+
+Github :  https://github.com/AnithaDharaneedharan/unit-testing
+
+Today's Progress: Learnt more on unit testing , how to mock and implement tests for fetch functions, Understood the importance of doing things little by little like sandboxing in node.js
+
+Thoughts: Think the test cases and write them  before writing the code.
+
+Experimented with: it, assertions, mocked data , dependency injection 
+
+Link(s) to work : https://www.youtube.com/watch?v=lkA4rmo7W6k, https://stripe.com/docs/api
+
 
 
