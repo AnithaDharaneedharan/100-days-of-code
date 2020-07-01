@@ -216,9 +216,9 @@ Day 16: July 1, 2020
 
 Today's Progress: Undersatnding RESTful API and Node
 
-Thoughts: 
+Thoughts: RESTful API constraints - it is stateless and therefore we cant save session on server, it is detached from the client
 
-Experimented with: 
+Experimented with: Initial setup
 
 Link(s) to work : https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
 
