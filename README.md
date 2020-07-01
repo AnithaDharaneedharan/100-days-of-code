@@ -208,17 +208,19 @@ Experimented with:
 Link(s) to work : https://www.youtube.com/watch?v=MydXz_O2pE0 ,
 https://medium.com/technofunnel/https-medium-com-mayank-gupta-6-88-21-performance-optimizations-techniques-for-react-d15fa52c2349
 
+THERE WAS A LONG BREAK DUE TO GUESTS AT HOME. NO EXCUSES ANOTHER TIME :( :)
 
-Day 16: June 18, 2020
+
+Day 16: July 1, 2020
 
 
-Today's Progress: Undersatnding the entire flow of the application.
+Today's Progress: Undersatnding RESTful API and Node
 
 Thoughts: 
 
 Experimented with: 
 
-Link(s) to work : https://www.youtube.com/watch?v=wPQ1-33teR4&t=190s
+Link(s) to work : https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
 
 
 
