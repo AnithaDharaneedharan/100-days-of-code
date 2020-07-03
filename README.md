@@ -218,12 +218,32 @@ Today's Progress: Undersatnding RESTful API and Node
 
 Thoughts: RESTful API constraints - it is stateless and therefore we cant save session on server, it is detached from the client
 
-Experimented with: Initial setup
+Experimented with: Understanding concepts
 
 Link(s) to work : https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
 
 
+Day 17: July 2, 2020
 
 
+Today's Progress: Setting up RESTful API and Node
+
+Thoughts: Express is the Node.js framework which makes life easier building RESTful API
+
+Experimented with: Initial setup , server.js and package.json
+
+Link(s) to work : https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
+
+
+Day 18: July 3, 2020
+
+
+Today's Progress: Creating routes, logging, automatic reloading 
+
+Thoughts: API layer has the routes - CRUD ops , nodemon watches for changes , morgan does logging 
+
+Experimented with: creating routes and testing with POSTMAN . `use` 
+
+Link(s) to work : https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
 
 
