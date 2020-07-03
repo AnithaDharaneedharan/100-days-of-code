@@ -240,10 +240,12 @@ Day 18: July 3, 2020
 
 Today's Progress: Creating routes, logging, automatic reloading 
 
-Thoughts: API layer has the routes - CRUD ops , nodemon watches for changes , morgan does logging 
+Thoughts: API layer has the routes - CRUD ops , nodemon watches for changes , morgan does logging .
+          Each app.use(middleware) is called every time a request is sent to the server.
+          createServer fn is to spin up the server
 
 Experimented with: creating routes and testing with POSTMAN . `use` 
 
-Link(s) to work : https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
+Link(s) to work : https://www.youtube.com/watch?v=UVAMha41dwo&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q&index=4
 
 
