@@ -248,4 +248,14 @@ Experimented with: creating routes and testing with POSTMAN . `use`
 
 Link(s) to work : https://www.youtube.com/watch?v=UVAMha41dwo&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q&index=4
 
+Day 19: July 4, 2020
+
+
+Today's Progress: Error handling, handling CORS and body parser
+
+Thoughts: the server.js /app.js is an important file where all the handling is done and when a particular route cant be handled , error handling is done
+
+Experimented with: creating routes and testing with POSTMAN , added body and tested
+
+Link(s) to work : https://www.youtube.com/watch?v=zoSJ3bNGPp0
 
