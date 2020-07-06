@@ -266,6 +266,6 @@ Today's Progress: Pagination in React
 
 Thoughts: Pagination can be done using libraries too , but this was quite simple so tried this, Need to incorporate Bootstrap for styling
 
-Experimented with: useEffect hooks, u derstood the logic behind pagination- how we get the number of posts per page
+Experimented with: useEffect hooks, u derstood the logic behind pagination- how we get the number of posts per page , it is a very simple implementation which doesnt cover - on refresh the app loads the first page 
 
 Link(s) to work : https://www.youtube.com/watch?v=IYCa1F-OWmk&t=1s
