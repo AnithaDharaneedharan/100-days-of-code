@@ -259,3 +259,13 @@ Experimented with: creating routes and testing with POSTMAN , added body and tes
 
 Link(s) to work : https://www.youtube.com/watch?v=zoSJ3bNGPp0
 
+Day 20: July 5, 2020
+
+
+Today's Progress: Pagination in React
+
+Thoughts: Pagination can be done using libraries too , but this was quite simple so tried this, Need to incorporate Bootstrap for styling
+
+Experimented with: useEffect hooks, u derstood the logic behind pagination- how we get the number of posts per page
+
+Link(s) to work : https://www.youtube.com/watch?v=IYCa1F-OWmk&t=1s
