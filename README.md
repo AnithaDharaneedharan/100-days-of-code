@@ -225,6 +225,7 @@ Link(s) to work : https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q
 
 Day 17: July 2, 2020
 
+https://github.com/AnithaDharaneedharan/node-rest-shop
 
 Today's Progress: Setting up RESTful API and Node
 
@@ -237,6 +238,7 @@ Link(s) to work : https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q
 
 Day 18: July 3, 2020
 
+https://github.com/AnithaDharaneedharan/node-rest-shop
 
 Today's Progress: Creating routes, logging, automatic reloading 
 
@@ -250,6 +252,7 @@ Link(s) to work : https://www.youtube.com/watch?v=UVAMha41dwo&list=PL55RiY5tL51q
 
 Day 19: July 4, 2020
 
+https://github.com/AnithaDharaneedharan/node-rest-shop
 
 Today's Progress: Error handling, handling CORS and body parser
 
@@ -267,5 +270,18 @@ Today's Progress: Pagination in React
 Thoughts: Pagination can be done using libraries too , but this was quite simple so tried this, Need to incorporate Bootstrap for styling
 
 Experimented with: useEffect hooks, u derstood the logic behind pagination- how we get the number of posts per page , it is a very simple implementation which doesnt cover - on refresh the app loads the first page 
+
+Link(s) to work : https://www.youtube.com/watch?v=IYCa1F-OWmk&t=1s
+
+Day 21 : July 6 , 2020
+
+https://github.com/AnithaDharaneedharan/node-rest-shop
+
+
+Today's Progress: Understanding cluster in Mongo Atlas, MongoDB connection to Node 
+
+Thoughts:
+
+Experimented with: 
 
 Link(s) to work : https://www.youtube.com/watch?v=IYCa1F-OWmk&t=1s
